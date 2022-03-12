@@ -6,23 +6,23 @@ const btn = document.querySelector('button');
 const quizData = [
     {
         question: 'What is the most used social media in 2022?',
-        answers: ['Facebook', 'Twitter', 'Snapchat', 'Instagram'],
-        correct: 'Facebook'
+        answers: ['Facebook', 'Youtube', 'Snapchat', 'Instagram'],
+        correct: 'Youtube'
     },
     {
         question: 'What is the most used programming language in 2022?',
         answers: ['C', 'JavaScript', 'Python', 'Java'],
-        correct: 'JavaScript'
+        correct: 'Python'
     }, 
     {
         question: 'What does HTML stands for?',
         answers: ['Hyper table milk land', 'Hypertext Markup Language', 'Too hot to handle', 'Humbletaxt medium language'],
-        correct: 1
+        correct: 'Hypertext Markup Language'
     },
     {
         question: 'What year was JavaScript launch?',
-        answers: [ 1994, 2000, 1995, 1996],
-        correct: 3
+        answers: [ '1994', '2000', '1995', '1996'],
+        correct: '1995'
     }
     
 ]
